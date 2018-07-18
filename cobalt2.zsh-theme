@@ -71,8 +71,9 @@ prompt_git() {
 
 # Dir: current working directory
 prompt_dir() {
-  prompt_segment blue black '%3~'
+  # prompt_segment blue black '%3~'
   # prompt_segment blue black "…${PWD: -30}"
+  prompt_segment blue black "${PWD##*/}"
 }
 
 # Status:

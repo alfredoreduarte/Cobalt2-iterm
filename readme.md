@@ -1,5 +1,9 @@
 # Cobalt2 for iTerm2 and ZSH
 
+## Edits:
+
+- Removed full path from prompt
+
 Two things for lovers of the [Sublime Text Theme](https://github.com/wesbos/cobalt2). Cobalt2 in your terminal!
 
 ![](http://wes.io/Ub3k/content)
